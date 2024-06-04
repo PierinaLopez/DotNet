@@ -1,10 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MotoGP.Data;
 using MotoGP.Models;
 
 namespace MotoGP.Controllers
 {
     public class InfoController : Controller
     {
+        private readonly GPContext _context;
+        public InfoController(GPContext context)
+        {
+            _context = context;
+        }
         public IActionResult Index()
         {
             return View();
@@ -40,6 +46,11 @@ namespace MotoGP.Controllers
             ViewData["BannerNr"] = BannerNr;
             var race = _context.Races.Where(a => a.RaceID == id).FirstOrDefault();
             return View(race);
+        }
+
+        public IActionResult Rider() 
+        {
+            return View();
         }
     }
 }

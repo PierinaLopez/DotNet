@@ -1,6 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using MotoGP.Data;
 using MotoGP.Models;
+using MotoGP.Models.ViewModels;
+using MotoGP.Models.ViewModels;
 
 namespace MotoGP.Controllers
 {
@@ -40,7 +44,7 @@ namespace MotoGP.Controllers
             return View(races);
         }
 
-        public IActionResult ShowRace() 
+        public IActionResult ShowRace(int id) 
         {
             int BannerNr = 0;
             ViewData["BannerNr"] = BannerNr;
@@ -48,9 +52,50 @@ namespace MotoGP.Controllers
             return View(race);
         }
 
-        public IActionResult Rider() 
+        public IActionResult ListRiders() 
         {
-            return View();
+            int BannerNr = 0;
+            ViewData["BannerNr"] = BannerNr;
+            var riders = _context.Riders.OrderBy(m => m.Number).ToList();
+            return View(riders);
+        }
+
+        public IActionResult SelectRace(int raceID = 0)
+        {
+            ViewData["BannerNr"] = 0;
+            var selectRacesVM = new SelectRacesViewModel();
+            selectRacesVM.Races = new SelectList(_context.Races.OrderBy(m => m.Name), "RaceID", "Name");
+            if (raceID != 0)
+            {
+                selectRacesVM.Race = _context.Races.Find(raceID);
+            }
+
+            selectRacesVM.raceID = raceID;
+
+            return View(selectRacesVM);
+        }
+
+        public IActionResult ListTeams()
+        {
+            ViewData["BannerNr"] = 0;
+            var teams = _context.Teams.OrderBy(m => m.Name).Include(m => m.Rider).ToList();
+            return View(teams);
+
+        }
+
+        public IActionResult ListTeamsRiders(int teamID = 0)
+        {
+            ViewData["BannerNr"] = 0;
+            var listTeamsRidersVM = new ListTeamsRidersViewModel();
+            listTeamsRidersVM.Teams = _context.Teams.OrderBy(m => m.Name).ToList();
+
+            if (teamID != 0)
+            {
+                listTeamsRidersVM.Riders = _context.Riders.OrderBy(m => m.FirstName).Where(m => m.TeamID == teamID).ToList();
+
+            }
+            listTeamsRidersVM.teamID = teamID;
+            return View(listTeamsRidersVM);
         }
     }
 }

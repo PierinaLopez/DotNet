@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JIuun9aVaOijAFauR6Rk9DtekwGsoM8zy6TF632g7BQ=",
+  "Hash": "3rRF9m0DtrsM9l8O+SEJib8GAiSsHu6lkc1l0aRCjy4=",
   "Source": "MotoGP",
   "BasePath": "_content/MotoGP",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "MotoGP\\wwwroot",
       "Source": "MotoGP",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\plope\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MotoGP.styles.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MotoGP.styles.css",
       "SourceId": "MotoGP",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "MotoGP.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MotoGP.styles.css"
+      "OriginalItemSpec": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MotoGP.styles.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MotoGP.bundle.scp.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MotoGP.bundle.scp.css",
       "SourceId": "MotoGP",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "MotoGP.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MotoGP.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MotoGP.bundle.scp.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\css\\site.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\favicon.ico",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner1.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner1.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/banner1.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\banner1.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner2.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner2.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/banner2.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\banner2.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner3.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner3.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/banner3.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\banner3.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner4.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\banner4.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/banner4.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\banner4.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerRaces.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerRaces.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/bannerRaces.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\bannerRaces.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerRiders.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerRiders.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/bannerRiders.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\bannerRiders.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerTeams.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerTeams.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/bannerTeams.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\bannerTeams.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerTickets.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\bannerTickets.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/bannerTickets.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\bannerTickets.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\logo.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\logo.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/logo.png",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\logo.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\map.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\map.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/map.png",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\map.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\races.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\races.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/races.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\races.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\riders.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\riders.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/riders.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\riders.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\teams.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\teams.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/teams.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\teams.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\tickets.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\banners\\tickets.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/banners/tickets.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banners\\tickets.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\159.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\159.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/159.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\159.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\182.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\182.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/182.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\182.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\183.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\183.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/183.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\183.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\44.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\44.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/44.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\44.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\58.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\58.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/58.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\58.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\62.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\62.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/62.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\62.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\83.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\83.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/83.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\83.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\85.png",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\flags\\85.png",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/flags/85.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\85.png"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\1.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\1.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/1.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\1.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\10.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\10.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/10.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\10.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\11.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\11.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/11.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\11.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\12.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\12.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/12.jpg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\12.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\2.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\2.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/2.jpg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\2.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\3.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\3.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/3.jpg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\3.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\4.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\4.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/4.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\4.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\5.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\5.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/5.jpg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\5.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\6.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\6.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/6.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\6.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\7.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\7.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/7.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\7.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\8.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\8.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/8.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\8.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\9.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\races\\9.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/races/9.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\races\\9.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\17.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\17.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/17.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\17.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\2.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\2.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/2.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\2.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\26.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\26.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/26.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\26.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\35.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\35.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/35.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\35.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\4.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\4.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/4.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\4.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\6.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\6.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/6.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\6.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\63.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\63.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/63.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\63.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\69.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\69.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/69.jpg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\69.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\7.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\7.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/7.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\7.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\8.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\8.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/8.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\8.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\9.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\9.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/9.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\9.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\93.jpg",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\riders\\93.jpg",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/riders/93.jpg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\images\\riders\\93.jpg"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\AB.PNG",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\AB.PNG",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/teams/AB.PNG",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teams\\AB.PNG"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\Avintia.PNG",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\Avintia.PNG",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/teams/Avintia.PNG",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teams\\Avintia.PNG"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\Ducati.PNG",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\Ducati.PNG",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/teams/Ducati.PNG",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teams\\Ducati.PNG"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\ioda.PNG",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\ioda.PNG",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/teams/ioda.PNG",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teams\\ioda.PNG"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\LCR.PNG",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\LCR.PNG",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/teams/LCR.PNG",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teams\\LCR.PNG"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\M7.PNG",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\M7.PNG",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/teams/M7.PNG",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teams\\M7.PNG"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\Repsol.PNG",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\images\\teams\\Repsol.PNG",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "images/teams/Repsol.PNG",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\teams\\Repsol.PNG"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\js\\site.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MotoGP",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
+      "ContentRoot": "E:\\Cursos\\Dotnet\\DotNet\\www\\MotoGP\\MotoGP\\wwwroot\\",
       "BasePath": "_content/MotoGP",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

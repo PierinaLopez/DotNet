@@ -1,0 +1,75 @@
+﻿@model MusicStore.Models.ViewModels.SelectGenresArtistsViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    var selectGenreList = (IEnumerable<SelectListItem>)Model.Genres;
+    var selectArtistList = (IEnumerable<SelectListItem>)Model.Artists;
+
+
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<p>
+    Filter op:
+</p>
+
+<form asp-action="Index" method="get">
+
+    <b>@(Html.DisplayNameFor(model => model.Albums[0].Genre))</b>: 
+    <select asp-for="genreID" asp-items="selectGenreList">
+        <option value="0">-- Select a genre --</option>
+    </select><br />
+    <b>@(Html.DisplayNameFor(model => model.Albums[0].Artist))</b>:
+
+    <select asp-for="artistID" asp-items="selectArtistList">
+        <option value="0">-- Select an artist --</option>
+    </select><br />
+    <b>@(Html.DisplayNameFor(model => model.Albums[0].Title))</b>:
+
+    <input type="text" asp-for="title"/><br />
+   
+    <input type="submit" value="Filter" />
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Albums[0].Artist)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Albums[0].Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Albums[0].Title)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Albums) {
+        <tr>
+                 <td>
+                    @Html.DisplayFor(modelItem => item.Artist.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre.Name)
+                </td>
+                <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>       
+           
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AlbumID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AlbumID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AlbumID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
